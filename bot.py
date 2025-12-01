@@ -6,7 +6,7 @@ from pyrogram.types import Message
 # Configuración - EL TOKEN VA DIRECTAMENTE AQUÍ
 API_ID = "14681595"  # Reemplaza con tu API ID
 API_HASH = "a86730aab5c59953c424abb4396d32d5"  # Reemplaza con tu API Hash
-BOT_TOKEN = "7524353782:AAEwgHLdwMSvietPvFk25cKH9lJCMU1tTBI"  # Reemplaza con tu token real
+BOT_TOKEN = "8213746990:AAG-jpTTnok-VWRlMb02J5w2yFmastnhljQ"  # Reemplaza con tu token real
 
 # Crear el cliente
 app = Client(
